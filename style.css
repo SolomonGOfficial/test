@@ -1,0 +1,19 @@
+body{
+    background-color: #012623;
+}
+
+h1{
+    color: #0ABFAD;
+}
+
+.circled{
+    list-style-type: circle;
+}
+
+#white{
+    color: #F2F2F2;
+}
+
+#red{
+    color: #F2167D
+}
